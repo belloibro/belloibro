@@ -22,5 +22,5 @@
 ---
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=belloibro&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=belloibro&show_icons=true&theme=radical&hide_border=true&include_all_commits=true" width="495" alt="GitHub Stats" />
 </div>
