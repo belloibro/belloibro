@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>IBRO</h1>
+  <img src="https://img.shields.io/badge/IBRO-0A0A0A?style=for-the-badge&logo=gnu-bash&logoColor=00ff66&labelColor=111111" alt="IBRO" height="40" />
   <p><code>MOBILE-FIRST SYSTEMS ENGINEER & BACKEND ARCHITECT</code></p>
 </div>
 
