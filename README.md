@@ -1,26 +1,49 @@
 <div align="center">
-  <h1 align="center">Hi there, I'm IBRO 👋</h1>
-  <p align="center"><b>Mobile-First Systems Engineer & Backend Architect</b></p>
-  <p align="center">
-    <img src="https://komarev.com/ghpvc/?username=belloibro&color=00ff66&style=flat-square" alt="Profile Views" />
-    <img src="https://img.shields.io/github/followers/belloibro?color=blue&style=flat-square" alt="GitHub Followers" />
-  </p>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&custom_color_list=0,2,10,15,30&height=180&section=header&text=IBRO&fontSize=70&fontColor=00ff66&fontAlignY=35&desc=Mobile-First%20Systems%20Engineer%20&%20Backend%20Architect&descSize=18&descColor=ffffff" alt="Header" />
+</div>
+
+<div align="center">
+  <img src="https://img.shields.io/badge/CORE-SYSTEMS%20ONLINE-00ff66?style=for-the-badge&logo=linux&logoColor=black" alt="Status" />
+  <img src="https://img.shields.io/badge/TERMUX-EDGE%20NODE-blue?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Termux" />
+  <img src="https://img.shields.io/badge/SECURITY-KALI%20NETHUNTER-orange?style=for-the-badge&logo=kalilinux&logoColor=white" alt="Security" />
+  <img src="https://komarev.com/ghpvc/?username=belloibro&color=00ff66&style=for-the-badge" alt="Views" />
 </div>
 
 ---
 
-### 🚀 About Me
-* ⚡ Specializing in **mobile-native development, terminal-driven DevOps (Termux), and secure backend automation**.
-* 🛡️ Building custom threat-intelligence daemons, cryptographic audit ledgers, and lightweight system utilities.
-* 📱 Optimizing mobile-first workflows for maximum performance and low-latency execution.
+### ⚡ Architectural Scope & Focus
 
-### 🛠️ Tech Stack & Tools
-* **Languages:** Python, Bash, HTML/Tailwind CSS
-* **Environments:** Termux, Kali NetHunter, Linux Mobile Edge Nodes
-* **Infrastructure:** Flask, Cloudflare Tunnels, Serveo, Git/GitHub Automation
+* **Mobile-Native Edge Engineering:** Architecting fully autonomous, terminal-driven backend environments and lightweight infrastructure straight from mobile-native platforms (Termux / Linux Mobile).
+* **Threat Telemetry & Automation:** Designing secure event-driven monitoring daemons, custom TCP scanners, and automated multi-tier alert systems via Python and Flask.
+* **Low-Latency Pipelines:** Streamlining zero-bloat system diagnostics, automated Git workflows, and secure public tunneling via Cloudflare and Serveo.
 
 ---
 
+### 🛠️ Core Technology Stack
+
+| Category | Infrastructure & Tools |
+| :--- | :--- |
+| **Languages** | `Python`, `Bash`, `SQL`, `HTML/Tailwind CSS` |
+| **Environments** | `Termux`, `Kali NetHunter (Rootless)`, `Linux Mobile Nodes` |
+| **Backend & APIs** | `Flask`, `Custom Daemons`, `Telegram Bot Listeners` |
+| **Networking & Tunnels** | `Cloudflare Tunnels`, `Serveo SSH Port Forwarding`, `Nmap` |
+| **Version Control** | `Git`, `GitHub Automated CI/CD Pipelines` |
+
+---
+
+### 💻 Active Repository Telemetry
+
+```text
+[IBRO@mobile-edge ~]# neofetch --core-stack
+OS: Termux / Android Mobile-Native Environment
+Host: Samsung Galaxy / ARM64 Edge Node
+Kernel: Linux Mobile Secure Daemon
+Uptime: Continuous Deployment Active
+Shell: Bash + Python 3.12 Runtime
+Stack: Flask + Threat Telemetry + Git Automation
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=belloibro&show_icons=true&theme=radical&hide_border=true&include_all_commits=true" width="495" alt="GitHub Stats" />
+<img src="https://github-readme-stats.vercel.app/api?username=belloibro&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" width="520" alt="GitHub Stats" />
+</div>
+​<div align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=belloibro&layout=compact&theme=radical&hide_border=true" width="520" alt="Top Languages" />
 </div>
