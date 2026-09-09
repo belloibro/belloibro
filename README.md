@@ -1,6 +1,6 @@
 <div align="center">
-  <h1>⚡ [ IBRO ] ⚡</h1>
-  <p><b>MOBILE-FIRST SYSTEMS ENGINEER & BACKEND ARCHITECT</b></p>
+  <h1>IBRO</h1>
+  <p><code>MOBILE-FIRST SYSTEMS ENGINEER & BACKEND ARCHITECT</code></p>
 </div>
 
 <div align="center">
