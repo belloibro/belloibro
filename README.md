@@ -1,6 +1,6 @@
 <div align="center">
-  <img src="https://img.shields.io/badge/IBRO-0A0A0A?style=for-the-badge&logo=gnu-bash&logoColor=00ff66&labelColor=111111" alt="IBRO" height="40" />
-  <p><code>MOBILE-FIRST SYSTEMS ENGINEER & BACKEND ARCHITECT</code></p>
+  <h1><code>[ IBRO ]</code></h1>
+  <p><b>MOBILE-FIRST SYSTEMS ENGINEER & BACKEND ARCHITECT</b></p>
 </div>
 
 <div align="center">
