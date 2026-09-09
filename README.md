@@ -19,12 +19,14 @@
 
 ---
 
-### ⚡ Featured Repositories & Tooling
+### ⚡ Repositories & System Tweaks Directory
 
-| Repository | Description | Stack |
+| Repository / Tool | Description & Utility | Stack |
 | :--- | :--- | :--- |
 | **[CyberSentinel](https://github.com/belloibro/CyberSentinel)** | Mobile-native threat intelligence, automated port scanners, and secure Flask monitoring dashboards. | `Python`, `Flask`, `Kali NetHunter` |
 | **[Neofetch-Python](https://github.com/belloibro/Neofetch-Python)** | Lightweight terminal system information fetch utility optimized for mobile and edge nodes. | `Python`, `Bash`, `Termux` |
+| **[Termux-Edge-Tweaks](https://github.com/belloibro)** | Automated environment configs, background daemon handlers, and performance optimization scripts. | `Bash`, `Shell Scripting` |
+| **[Flask-Telegram-Daemon](https://github.com/belloibro)** | Event-driven notification listeners and real-time alert routing built for mobile nodes. | `Python`, `Telegram Bot API` |
 
 ---
 
