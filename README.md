@@ -11,8 +11,7 @@
 
 ---
 
-### ⚡ Architectural Scope & Focus
-
+### 🚀 Architectural Scope & Focus
 * **Mobile-Native Edge Engineering:** Architecting fully autonomous, terminal-driven backend environments and lightweight infrastructure straight from mobile-native platforms (Termux / Linux Mobile).
 * **Threat Telemetry & Automation:** Designing secure event-driven monitoring daemons, custom TCP scanners, and automated multi-tier alert systems via Python and Flask.
 * **Low-Latency Pipelines:** Streamlining zero-bloat system diagnostics, automated Git workflows, and secure public tunneling via Cloudflare and Serveo.
@@ -41,9 +40,3 @@ Kernel: Linux Mobile Secure Daemon
 Uptime: Continuous Deployment Active
 Shell: Bash + Python 3.12 Runtime
 Stack: Flask + Threat Telemetry + Git Automation
-<div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=belloibro&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" width="520" alt="GitHub Stats" />
-</div>
-​<div align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=belloibro&layout=compact&theme=radical&hide_border=true" width="520" alt="Top Languages" />
-</div>
