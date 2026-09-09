@@ -2,12 +2,12 @@
   <h1><code>[ I. B. MATAWALLE ]</code></h1>
   <p><b>MOBILE-FIRST SYSTEMS ENGINEER & BACKEND ARCHITECT</b></p>
 
-  <p>
-    <a href="https://github.com/belloibro?tab=repositories"><img src="https://img.shields.io/badge/CORE-SYSTEMS%20ONLINE-00ff66?style=for-the-badge&logo=linux&logoColor=black" alt="Status" /></a>
-    <a href="https://termux.dev/"><img src="https://img.shields.io/badge/TERMUX-EDGE%20NODE-blue?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Termux" /></a>
-    <a href="https://www.kali.org/docs/nethunter/"><img src="https://img.shields.io/badge/SECURITY-KALI%20NETHUNTER-orange?style=for-the-badge&logo=kalilinux&logoColor=white" alt="Security" /></a>
-    <a href="https://github.com/belloibro"><img src="https://komarev.com/ghpvc/?username=belloibro&color=00ff66&style=for-the-badge" alt="Views" /></a>
-  </p>
+  <table align="center"><tr>
+    <td><a href="https://github.com/belloibro?tab=repositories"><img src="https://img.shields.io/badge/CORE-SYSTEMS%20ONLINE-00ff66?style=for-the-badge&logo=linux&logoColor=black" alt="Status" /></a></td>
+    <td><a href="https://termux.dev/"><img src="https://img.shields.io/badge/TERMUX-EDGE%20NODE-blue?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Termux" /></a></td>
+    <td><a href="https://www.kali.org/docs/nethunter/"><img src="https://img.shields.io/badge/SECURITY-KALI%20NETHUNTER-orange?style=for-the-badge&logo=kalilinux&logoColor=white" alt="Security" /></a></td>
+    <td><a href="https://github.com/belloibro"><img src="https://komarev.com/ghpvc/?username=belloibro&color=00ff66&style=for-the-badge" alt="Views" /></a></td>
+  </tr></table>
 </div>
 
 ---
