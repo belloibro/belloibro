@@ -19,6 +19,15 @@
 
 ---
 
+### ⚡ Featured Repositories & Tooling
+
+| Repository | Description | Stack |
+| :--- | :--- | :--- |
+| **[CyberSentinel](https://github.com/belloibro/CyberSentinel)** | Mobile-native threat intelligence, automated port scanners, and secure Flask monitoring dashboards. | `Python`, `Flask`, `Kali NetHunter` |
+| **[Neofetch-Python](https://github.com/belloibro/Neofetch-Python)** | Lightweight terminal system information fetch utility optimized for mobile and edge nodes. | `Python`, `Bash`, `Termux` |
+
+---
+
 ### 🛠️ Core Technology Stack
 
 | Category | Infrastructure & Tools |
