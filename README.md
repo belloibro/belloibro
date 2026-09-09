@@ -1,5 +1,5 @@
 <div align="center">
-  <h1 align="center">Hi there, I'm Bello 👋</h1>
+  <h1 align="center">Hi there, I'm IBM 👋</h1>
   <p align="center"><b>Mobile-First Systems Engineer & Backend Architect</b></p>
   <p align="center">
     <img src="https://komarev.com/ghpvc/?username=belloibro&color=00ff66&style=flat-square" alt="Profile Views" />
@@ -22,5 +22,5 @@
 ---
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=belloibro&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1b26" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=belloibro&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
 </div>
