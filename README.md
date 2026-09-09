@@ -1,4 +1,8 @@
 <div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&custom_color_list=0,2,10,15,30&height=180&section=header&text=IBRO&fontSize=70&fontColor=00ff66&fontAlignY=35&desc=Mobile-First%20Systems%20Engineer%20&%20Backend%20Architect&descSize=18&descColor=ffffff" alt="Header" />
+</div>
+
+<div align="center">
   <a href="https://github.com/belloibro?tab=repositories" style="text-decoration: none;">
     <img src="https://img.shields.io/badge/CORE-SYSTEMS%20ONLINE-00ff66?style=for-the-badge&logo=linux&logoColor=black" alt="Status" />
   </a>
